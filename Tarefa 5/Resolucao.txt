@@ -1,0 +1,45 @@
+
+Dois veículos, um carro e um caminhão, saem respectivamente de cidades opostas pela mesma rodovia. 
+O carro, de Ribeirão Preto em direção a Barretos, a uma velocidade constante de 90 km/h, 
+e o caminhão, de Barretos em direção a Ribeirão Preto, a uma velocidade constante de 80 km/h. 
+
+Quando eles se cruzarem no percurso, qual estará mais próximo da cidade de Ribeirão Preto?
+
+a) Considerar a distância de 125km entre a cidade de Ribeirão Preto <-> Barretos.
+b) Considerar 3 pedágios como obstáculo e que o carro leva 5 minutos a mais para passar em cada um deles, pois ele não possui dispositivo de cobrança de pedágio.
+c)Explique como chegou no resultado.
+
+R:
+
+Carro - 90 km/h                                                                       Caminhao - 80 km/h
+_______________________________________________125 km___________________________________________________
+Ribeirão Preto                                                                                  Barretos
+
+Quando dois veículos andam em direções opostas, a VEL. RELATIVA é a soma das velocidades,
+que é 170 km/h (90+80)
+
+O tempo até o cruzamento sem considerar os pedágios é a DISTANCIA dividida pela VEL. RELATIVA
+t = 125/170 ≈ 0,735 horas (44,1 minutos)
+
+Agora, adiciono o tempo dos pedágios, 44,1 minutos + 15 minutos (pedágios somados) = 59,1 minutos. 
+
+Então, o TEMPO TOTAL que o carro leva pra se cruzar é de 59,1 min
+
+Veremos a DISTANCIA PERCORRIDA pelos veículos nesse período de tempo, que é a VELOCIDADE vezes o TEMPO.
+
+CARRO = 90 * (59,1/60) (carro usa TEMPO TOTAL)
+      ≈ 89,4 km 
+
+CAMINHAO = 80 * (44,1/60) (TEMPO sem pedágio somado)   
+         ≈ 59 km
+
+Finalmente, calculamos as distâncias de Ribeirão Preto, que seria a DISTANCIA TOTAL do percurso
+subtraída pela DISTANCIA PERCORRIDA dos veiculos
+
+CARRO = 125 - 89,4
+      ≈ 35,6 km
+
+CAMINHAO = 125 - 59
+         ≈ 66 km
+
+Assim vemos que o carro está mais próximo de Ribeirão Preto no momento em que se cruza com o caminhão.
